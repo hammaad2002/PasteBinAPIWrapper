@@ -1,4 +1,5 @@
 Metadata-Version: 2.1
-Name: pasteBinAPIWrapper
-Version: 0.1
+Name: PasteBinAPIWrapper
+Version: 0.0.1
 Requires-Python: >=3.5
+License-File: LICENSE.txt

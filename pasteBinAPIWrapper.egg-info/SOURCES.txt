@@ -1,9 +1,10 @@
+LICENSE.txt
 README.md
 setup.py
-pasteBinAPIWrapper/__init__.py
-pasteBinAPIWrapper/apiWrapper.py
-pasteBinAPIWrapper.egg-info/PKG-INFO
-pasteBinAPIWrapper.egg-info/SOURCES.txt
-pasteBinAPIWrapper.egg-info/dependency_links.txt
-pasteBinAPIWrapper.egg-info/requires.txt
-pasteBinAPIWrapper.egg-info/top_level.txt
+PasteBinAPIWrapper/__init__.py
+PasteBinAPIWrapper/apiWrapper.py
+PasteBinAPIWrapper.egg-info/PKG-INFO
+PasteBinAPIWrapper.egg-info/SOURCES.txt
+PasteBinAPIWrapper.egg-info/dependency_links.txt
+PasteBinAPIWrapper.egg-info/requires.txt
+PasteBinAPIWrapper.egg-info/top_level.txt

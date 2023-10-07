@@ -1,1 +1,1 @@
-pasteBinAPIWrapper
+PasteBinAPIWrapper
