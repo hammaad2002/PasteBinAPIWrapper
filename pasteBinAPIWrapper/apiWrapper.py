@@ -1,7 +1,7 @@
 import requests
 from typing import Optional
 
-class pasteBinAPIWrapper(object):
+class wrapper(object):
     '''
     PasteBin's API for Python users. It can perform the following tasks on 
     Pastebin:
