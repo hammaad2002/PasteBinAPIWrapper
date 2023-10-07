@@ -1,1 +1,1 @@
-from .apiWrapper import pasteBinAPIWrapper
+from .apiWrapper import wrapper
